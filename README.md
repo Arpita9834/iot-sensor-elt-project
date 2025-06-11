@@ -1,8 +1,8 @@
 # iot-sensor-elt-project
 IoT ELT pipeline using AWS Glue, S3, and Athena
-# 🚀 IoT Sensor Data ELT Pipeline using AWS Glue
+#IoT Sensor Data ELT Pipeline using AWS Glue
 
-### 👩‍💻 Role: AWS Glue Engineer  
+### Role: AWS Glue Engineer  
 This project showcases an end-to-end **ELT pipeline** for processing IoT sensor data using AWS Glue, S3, and Athena.
 
 ---
