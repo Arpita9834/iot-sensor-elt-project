@@ -92,14 +92,17 @@ Tables registered in: iot_sensor_data_db (Glue Data Catalog)
 
 ## ✅ Outcome
 
-This project successfully automates the cleaning and transformation of raw IoT sensor data, stores the outputs in query-optimized formats, and allows for easy analysis via Athena. Ideal for production-scale IoT data pipelines.
+This project successfully automates the cleaning and 
+transformation of raw IoT sensor data, stores the outputs 
+in query-optimized formats, and allows for easy analysis via Athena. 
+Ideal for production-scale IoT data pipelines.
 
 ---
 
 ## 📌 Credits
 
 **Arpita Gaikwad**  
-_19 y/o BCA student with a specialization in Cloud Computing & Cybersecurity_  
+_20 y/o BCA student with a specialization in Cloud Computing & Cybersecurity_  
 **Role**: AWS Glue Engineer
 
 ---
